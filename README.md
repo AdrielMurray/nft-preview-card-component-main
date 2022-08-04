@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://github.com/AdrielMurray/nft-preview-card-component-main/)
-- Live Site URL: [Add live site URL here]( https://adrielmurray.github.io/nft-preview-card-component-main/)
+- Solution URL: [Github Link](https://github.com/AdrielMurray/nft-preview-card-component-main/)
+- Live Site URL: [Click here]( https://adrielmurray.github.io/nft-preview-card-component-main/)
 
 
 ### Built with
