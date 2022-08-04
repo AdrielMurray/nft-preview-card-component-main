@@ -32,7 +32,10 @@
     width: 45vh;
     height: 45vh;
     margin-top: -10px;
-    border-radius: 10px
+    border-radius: 10px;
+    display: block;
+    max-width: 100%;
+
    
 
 }
@@ -57,7 +60,7 @@
     transition: all 0.25s ease;
     border-radius: 10px;
     margin-top: -10px;
-    margin-bottom: 3px;
+    margin-bottom: 1px;
 }
 
 .nft-image:hover::after {
